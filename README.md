@@ -1,4 +1,4 @@
-### Passionate front-end developer creating intuitive user experiences:wave:
+### Passionate front-end developer Raagdol, studying to create intuitive user experiences:wave:🌟
 ### Tech Stack:dizzy:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
