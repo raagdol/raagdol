@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  position: fixed;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(85, 85, 85);
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 0 8px black;
+  padding: 10px;
+}
+
+.me {
+  height: 40px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  font-size: 16px;
+  cursor: pointer;
+  transition: font-size 0.3s ease;
+}
+
+.menu li.active {
+  font-size: 24px;
+}
+
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.page h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+/* about */
+#page-about {
+  background-color: white;
+}
+
+.about {
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.edu {
+  list-style: none;
+}
+.edu li {
+  font-weight: 550;
+}
+
+.tech {
+  list-style: none;
+  display: flex;
+}
+.tech li {
+  margin: 0 3px;
+}
+
+@media screen and (max-width: 768px) {
+  .about {
+    flex-direction: column;
+  }
+  .me02 {
+    padding-bottom: 50px;
+  }
+}
+
+/* project */
+#page-project {
+  background-color: white;
+}
+
+.project {
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.project .project1,
+.project .project2 {
+  width: 300px;
+  height: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 3px 3px 15px 0 rgb(85, 85, 85);
+  border-radius: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+.text1 p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+.text1 span {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.text2 p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+.text2 span {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+/* profile */
+#page-profile .profile {
+  display: flex;
+  margin: 0 auto;
+}
+
+#page-profile .profile ul{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.profile ul li{
+  list-style: none;
+  margin: 0 15px;
+}
+
+.profile ul li .fab{
+  font-size: 30px;
+  line-height: 60px;
+  transition: .3s;
+  color: #000;
+}
+
+.profile ul li .fab:hover{
+  color: #fff;
+}
+
+.profile ul li a{
+  display: block;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #fff;
+  /* text-align: center; */
+  transition: .6s;
+  box-shadow: 0 5px 4px rgba(0,0,0,.5);
+}
+
+.profile ul li a:hover{
+  transform: translate(0, -10%);
+}
+
+.profile ul li:nth-child(1) a:hover{
+  background-color: rgba(0, 0, 0, 0.829);
+}
+.profile ul li:nth-child(2) a:hover{
+  background-color: #E24571;
+}
+
+/* 티스토리 FF5A4A */
+
+
+.menu li.active {
+  font-size: 18px;
+  color: black;
+  text-decoration: underline;
+}
