@@ -1,13 +1,10 @@
-## Let's build amazing things together!:technologist:
-### Tech Stack:pushpin:
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat) <br>
+## Let's build amazing things together! :technologist:
+### Tech Stack :pushpin:
 
-![NOTION](https://img.shields.io/badge/-NOTION-000000?logo=notion&logoColor=white&style=flat)
-![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?logo=figma&logoColor=white&style=flat)
+**Framework:** Spring Boot  
+**Library:** React, Redux  
+**Language:** Java, JavaScript  
+**DB:** MySQL
 
 <!--
 **raagdol/raagdol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
