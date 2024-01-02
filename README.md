@@ -1,9 +1,9 @@
 ## Let’s build amazing things together! :rocket:
 ### :hammer: Tech Stack
 
-**Framework:** Spring Boot  
+**Framework:** Spring Boot, Flask  
 **Library:** React, Redux  
-**Language:** Java, JavaScript  
+**Language:** Java, JavaScript, Python  
 **DB:** MySQL, Amazon RDS
 
 <!--
