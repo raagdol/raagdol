@@ -1,5 +1,5 @@
-## Let's build amazing things together! :technologist:
-### Tech Stack :pushpin:
+## Let’s build amazing things together! :rocket:
+### :hammer: Tech Stack
 
 **Framework:** Spring Boot  
 **Library:** React, Redux  
